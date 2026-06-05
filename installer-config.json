@@ -1,0 +1,11 @@
+{
+    "assemblyName": "StepWize",
+    "converterClass": "Virinco.WATS.Converter.StepWize.GenericXSPCConverter",
+    "displayName": "StepWize SPC Converter",
+    "description": "Converts StepWize XSPC test result files to WATS UUT reports.",
+    "version": "1.0.0",
+    "fileFilter": "*.xspc",
+    "uploadPath": "C:\\ProgramData\\Virinco\\WATS\\StepWize",
+    "postProcessAction": "Archive",
+    "productGuid": "3f2ff278-5c89-a5ca-d708-c2f06f6e7e88"
+}
